@@ -1,0 +1,64 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+header {
+    
+      background-color:rgba(136, 212, 242, 1);
+    color: rgb(36, 141, 206);
+    justify-content: space-around;
+    align-items: center;
+   
+   
+}
+ .logo{
+
+    margin: 20px;
+
+ }
+
+nav a{
+    margin: 20px;
+    text-decoration: none;
+    color:  #18B5D9;
+    text-decoration: none;
+
+}
+
+nav a:hover {
+        color: rgb(109, 44, 147);
+        text-decoration: underline;
+}
+
+nav {
+    text-align: center;
+}
+.meio{
+
+    margin: 50px;
+}
+section{
+         text-align: center;
+}
+.metodo{
+
+    margin: 30px;
+}
+.corpo{
+     text-align: center;
+}
+.tipo{
+    margin: 30px;
+}
+.canais{
+    margin: 30px;
+}
+footer{
+
+    background-color: hsla(191, 80, 47, 1);
+    color: aquamarine;
+    padding: 20px;
+    text-align: center;
+    margin-top: 30px;
+}
